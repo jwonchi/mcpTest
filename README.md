@@ -1,0 +1,2 @@
+# mcpTest
+mcp playweight 
